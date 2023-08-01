@@ -1,0 +1,24 @@
+body{
+	background-color: #07f2fa;
+	font-family: 'Lustria', serif;
+}
+
+h1{
+	text-align: center;
+}
+
+img{
+	width: 20%;
+}
+
+#beach{	
+	height:400px;
+	object-fit: cover;
+	object-position: 0px 20px;	
+}
+
+#home{
+	padding:20px;
+	background-color: grey;
+	border:10px solid blue;
+}
